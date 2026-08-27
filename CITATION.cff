@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Replication Materials for \"Delegating Democracy Away?: Martial Law Support in South Korea\""
+message: "If you use these replication materials, please cite the associated article."
+type: dataset
+
+authors:
+  - family-names: "Park"
+    given-names: "Brandon B."
+  - family-names: "Sato"
+    given-names: "Yuko"
+
+repository-code: "https://github.com/YukoSato/Martial-Law-Support-in-South-Korea"
+url: "https://doi.org/10.5281/zenodo.22122371"
+
+version: "1.1"
+date-released: 2026-08-27
+license: "CC-BY-4.0"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22122371"
+    description: "Zenodo archive of replication materials"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Park"
+      given-names: "Brandon B."
+    - family-names: "Sato"
+      given-names: "Yuko"
+  title: "Delegating Democracy Away?: Martial Law Support in South Korea"
+  journal: "Political Research Quarterly"
